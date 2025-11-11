@@ -1,4 +1,4 @@
-# Accounting-App
+# Accounting App
 Welcome to the Accounting Application repository! This project is a comprehensive accounting app designed to help users manage their finances effectively. Built using PHP, MySQL, HTML, CSS, and JavaScript, this application offers a user-friendly interface for tracking income, expenses, and generating financial reports
 
 **Features**
